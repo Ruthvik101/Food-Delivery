@@ -32,6 +32,7 @@ Setup
 Clone the repo:
 
 git clone <repo-url>
+
 cd food-delivery-backend
 
 Install dependencies:
