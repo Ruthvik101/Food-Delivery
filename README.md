@@ -56,11 +56,17 @@ A backend for managing restaurant menus, handling orders, and tracking order sta
 
 ## Dependencies
 
-```json
-"dependencies": {
-    "body-parser": "^1.20.3",
-    "express": "^4.21.1",
-    "node-cron": "^3.0.3",
-    "mime-types": "~2.1.34",
-    "negotiator": "0.6.3"
-}
+- body-parser
+- express
+- node-cron
+- mime-types
+- negotiator
+
+## Testing with Postman
+
+Postman is used for testing the routes. You can import the Postman collection to quickly test the available endpoints.
+
+## License
+
+This project is licensed under the MIT License. See the following code for the license:
+
